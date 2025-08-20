@@ -1,0 +1,111 @@
+--- Converter Menu ---
+1. Currency Converter
+2. Distance Converter
+3. Time Converter
+0. Exit
+Choose an option: INPUT mainChoice: 1
+Currency Converter:
+1. USD to INR
+2. INR to USD
+3. Euro to INR
+4. INR to Euro
+5. Yen to INR
+6. INR to Yen
+Select conversion: INPUT Currency choice: 1
+Enter amount: INPUT amount: 10.0
+Converted Amount: 876.3
+--- Converter Menu ---
+1. Currency Converter
+2. Distance Converter
+3. Time Converter
+0. Exit
+Choose an option: INPUT mainChoice: 1
+Currency Converter:
+1. USD to INR
+2. INR to USD
+3. Euro to INR
+4. INR to Euro
+5. Yen to INR
+6. INR to Yen
+Select conversion: INPUT Currency choice: 2
+Enter amount: INPUT amount: 900.0
+Converted Amount: 10.270455323519343
+--- Converter Menu ---
+1. Currency Converter
+2. Distance Converter
+3. Time Converter
+0. Exit
+Choose an option: INPUT mainChoice: 1
+Currency Converter:
+1. USD to INR
+2. INR to USD
+3. Euro to INR
+4. INR to Euro
+5. Yen to INR
+6. INR to Yen
+Select conversion: INPUT Currency choice: 5
+Enter amount: INPUT amount: 70.0
+Converted Amount: 41.3
+--- Converter Menu ---
+1. Currency Converter
+2. Distance Converter
+3. Time Converter
+0. Exit
+Choose an option: INPUT mainChoice: 2
+Distance Converter:
+1. Meters to KM
+2. KM to Meters
+3. Miles to KM
+4. KM to Miles
+Select conversion: INPUT Distance choice: 1
+Enter distance: INPUT distance: 1000.0
+Converted Distance: 1.0
+--- Converter Menu ---
+1. Currency Converter
+2. Distance Converter
+3. Time Converter
+0. Exit
+Choose an option: INPUT mainChoice: 2
+Distance Converter:
+1. Meters to KM
+2. KM to Meters
+3. Miles to KM
+4. KM to Miles
+Select conversion: INPUT Distance choice: 3
+Enter distance: INPUT distance: 10000.0
+Converted Distance: 16093.4
+--- Converter Menu ---
+1. Currency Converter
+2. Distance Converter
+3. Time Converter
+0. Exit
+Choose an option: INPUT mainChoice: 3
+Time Converter:
+1. Hours to Minutes
+2. Minutes to Hours
+3. Hours to Seconds
+4. Seconds to Hours
+Select conversion: INPUT Time choice: 1
+Enter time: INPUT time: 9.0
+Converted Time: 540.0
+--- Converter Menu ---
+1. Currency Converter
+2. Distance Converter
+3. Time Converter
+0. Exit
+Choose an option: INPUT mainChoice: 3
+Time Converter:
+1. Hours to Minutes
+2. Minutes to Hours
+3. Hours to Seconds
+4. Seconds to Hours
+Select conversion: INPUT Time choice: 3
+Enter time: INPUT time: 8.0
+Converted Time: 28800.0
+--- Converter Menu ---
+1. Currency Converter
+2. Distance Converter
+3. Time Converter
+0. Exit
+Choose an option: INPUT mainChoice: 0
+Exiting Program.
