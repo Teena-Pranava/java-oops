@@ -1,0 +1,66 @@
+Enter initial stack size: INPUT initialSize: 1
+
+--- Select Stack Type ---
+1. String
+2. Integer
+Choice: INPUT StackTypeChoice: 1
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+
+Choice: INPUT MenuChoice: 1
+Enter value to push: INPUT PushValue: apple
+apple pushed to stack.
+
+Choice: INPUT MenuChoice: 1
+Enter value to push: INPUT PushValue: orange
+Stack resized to capacity: 2
+orange pushed to stack.
+
+Choice: INPUT MenuChoice: 4
+Enter initial stack size: INPUT initialSize: 2
+
+--- Select Stack Type ---
+1. String
+2. Integer
+Choice: INPUT StackTypeChoice: 2
+
+--- Stack Menu ---
+1. Push  2. Pop  3. Display  4. Exit
+
+Choice: INPUT MenuChoice: 1
+Enter integer value to push: INPUT PushValue: 5
+5 pushed to stack.
+
+Choice: INPUT MenuChoice: 1
+Enter integer value to push: INPUT PushValue: 6
+6 pushed to stack.
+
+Choice: INPUT MenuChoice: 1
+Enter integer value to push: INPUT PushValue: 8
+Stack resized to capacity: 4
+8 pushed to stack.
+
+Choice: INPUT MenuChoice: 1
+Enter integer value to push: INPUT PushValue: 9
+9 pushed to stack.
+
+Choice: INPUT MenuChoice: 2
+OUTPUT Popped: 9
+
+Choice: INPUT MenuChoice: 2
+OUTPUT Popped: 8
+
+Choice: INPUT MenuChoice: 2
+OUTPUT Popped: 6
+
+Choice: INPUT MenuChoice: 2
+OUTPUT Popped: 5
+
+Choice: INPUT MenuChoice: 2
+Exception: Cannot pop from empty stack.
+
+Choice: INPUT MenuChoice: 3
+Stack elements (top to bottom): [  ]
+
+Choice: INPUT MenuChoice: 4
