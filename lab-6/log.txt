@@ -1,0 +1,105 @@
+----- SHAPE INPUT -----
+Enter length and width for Rectangle: INPUT Rectangle: 15.0, 13.0
+Enter base and height for Triangle: INPUT Triangle: 12.0, 16.0
+Enter radius for Circle: INPUT Circle radius: 7.0
+
+----- SHAPE OUTPUT -----
+Shape: Rectangle
+Area: 195.0
+Color: Rectangle color is Yellow
+--------------------------------
+Shape: Triangle
+Area: 96.0
+Color: Triangle color is Green
+--------------------------------
+Shape: Circle
+Area: 153.93804002589985
+Color: Circle color is Blue
+--------------------------------
+
+
+----- EMPLOYEE SALARY SYSTEM -----
+Enter employee name: INPUT Name: 10000
+----- EMPLOYEE SALARY SYSTEM -----
+Enter employee name: INPUT Name: john
+Enter base salary: INPUT Base Salary: 100000.0
+Enter bonus (for manager): INPUT Bonus: 5000.0
+
+----- SALARY DETAILS -----
+Manager Name: john
+Base Salary: 100000.0
+Bonus: 5000.0
+Total Salary: 105000.0
+--------------------------------
+OUTPUT Total Salary: 105000.0
+--------------------------------
+
+
+
+=== METHOD OVERLOADING  === 
+Choose an option: 
+1. Sum of two integers 
+2. Sum of three doubles 
+3. Sum of variable number of integers 
+4. Exit 
+Enter choice:  
+INPUT User choice: 1 
+ACTION: Processing two integer sum 
+INPUT Integers: 98, 76 
+METHOD CALL: Called sum(int, int) with values: 98, 76 
+CALCULATION: 98 + 76 = 174 
+OUTPUT Result: 174 
+Choose an option: 
+1. Sum of two integers 
+2. Sum of three doubles 
+3. Sum of variable number of integers 
+4. Exit 
+Enter choice:  
+INPUT User choice: 2 
+ACTION: Processing three double sum 
+INPUT Doubles: 9.8, 4.5, 12.87 
+METHOD CALL: Called sum(double, double, double) with values: 9.8, 4.5, 12.87 
+CALCULATION: 9.8 + 4.5 + 12.87 = 27.17 
+OUTPUT Result: 27.17 
+Choose an option: 
+1. Sum of two integers 
+2. Sum of three doubles 
+3. Sum of variable number of integers 
+4. Exit 
+Enter choice:  
+INPUT User choice: 3 
+ACTION: Processing variable integer sum 
+INPUT Number of integers: 7 
+INPUT All integers: 12, 34, 76, 47, 90, 33, 77 
+METHOD CALL: Called sum(int...) with 7 values: 12, 34, 76, 47, 90, 33, 77 
+CALCULATION: 12 + 34 + 76 + 47 + 90 + 33 + 77 = 369 
+OUTPUT Result: 369 
+Choose an option: 
+1. Sum of two integers 
+2. Sum of three doubles 
+3. Sum of variable number of integers 
+4. Exit 
+Enter choice:  
+INPUT User choice: 2 
+ACTION: Processing three double sum 
+INPUT Doubles: 9.9999, 2.99999, 6.99999 
+METHOD CALL: Called sum(double, double, double) with values: 9.9999, 2.99999, 6.99999 
+CALCULATION: 9.9999 + 2.99999 + 6.99999 = 19.99988 
+OUTPUT Result: 19.99988 
+Choose an option: 
+1. Sum of two integers 
+2. Sum of three doubles 
+3. Sum of variable number of integers 
+4. Exit 
+Enter choice:  
+INPUT User choice: 5 
+ERROR: Invalid menu choice 
+Choose an option: 
+1. Sum of two integers 
+2. Sum of three doubles 
+3. Sum of variable number of integers 
+4. Exit 
+Enter choice:  
+INPUT User choice: 4 
+ACTION: Program Exit Chosen 
+=== PROGRAM EXECUTION COMPLETED ===
