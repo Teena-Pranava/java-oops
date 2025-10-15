@@ -1,0 +1,44 @@
+INPUT: Array size entered = 5
+OUTPUT: Array of size 5 created successfully.
+Execution completed.
+
+
+
+ Program started
+ INPUT: Number of people = 2
+ INPUT: Age of person 1 = 16
+ EXCEPTION (Unchecked): Age below 18 — Not eligible to vote.
+ INPUT: Age of person 2 = 22
+ OUTPUT: Age 22 — Eligible to vote!
+ Validation process completed.
+
+
+===== Program Execution Started =====
+EXCEPTION: File not found — numbers.txt (The system cannot find the file specified)
+INPUT a: 12
+INPUT b: 13
+OUTPUT Sum: 25
+OUTPUT Difference: -1
+===== Program Execution Completed =====
+
+
+===== Program Execution Started =====
+[INPUT] Initial balance = 30000.0
+ Number of transactions = 3
+ Transaction 1 amount = 1200.0
+[BankAccount] Attempting transfer of: 1200.0
+[BankAccount] Transfer successful. Remaining balance: 28800.0
+Transaction attempt: Amount=1200.0, FinalBalance=28800.0
+[BankAccount] Transaction logged .
+ Transaction 2 amount = 560.0
+[BankAccount] Attempting transfer of: 560.0
+[BankAccount] Transfer successful. Remaining balance: 28240.0
+Transaction attempt: Amount=560.0, FinalBalance=28240.0
+[BankAccount] Transaction logged .
+ Transaction 3 amount = 1780.0
+[BankAccount] Attempting transfer of: 1780.0
+[BankAccount] Transfer successful. Remaining balance: 26460.0
+Transaction attempt: Amount=1780.0, FinalBalance=26460.0
+[BankAccount] Transaction logged .
+===== Program Execution Completed =====
+
